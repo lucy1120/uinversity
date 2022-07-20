@@ -1,2 +1,2 @@
 # uinversity
-北京师范大vue仿建项目
+北京师范大学vue仿建项目
